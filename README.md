@@ -16,7 +16,8 @@ Hello! I'm a Full-Stack Developer specializing in creating websites, programs, s
 
 <h1 align="center">Projects</h1>
 
-- [HDWcaptcha](https://hdwcaptcha.ru) - Solve captchas quickly and accurately!
+- [HDWcaptcha](https://github.com/hdwcaptcha) - Solve captchas quickly and accurately!
+- [BestraXstudio](https://github.com/whaile-off/BestraXstudio) - Minecraft studio!
 - [HDWkeys](https://github.com/whaile-off/hdwkeys) - Java application for displaying mouse clicks and keyboard input.
 - [VkCaptchaGen](https://github.com/whaile-off/vk-captcha-generator) - Captcha generator for vk.com.
 - [VkCaptchaDow](https://github.com/whaile-off/vk-captcha-dowloader) - Captcha downloader for vk.com.
