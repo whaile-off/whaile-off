@@ -16,17 +16,16 @@ Hello! I'm a Full-Stack Developer specializing in creating websites, programs, s
 
 <h1 align="center">Projects</h1>
 
-- [HDWcaptcha | GitHub](https://github.com/hdwcaptcha) [HDWcaptcha | Demo](https://whaile.ru/demo/hdwcaptcha/index.php) - Solve captchas quickly and accurately!
-- [BestraXstudio | GitHub](https://github.com/whaile-off/BestraXstudio) [BestraXstudio | Demo](https://whaile.ru/demo/bestraxstudio/index.php) - Minecraft studio site!
-- [HDWkeys | GitHub](https://github.com/whaile-off/hdwkeys) - Java application for displaying mouse clicks and keyboard input.
-- [VkCaptchaGen | GitHub](https://github.com/whaile-off/vk-captcha-generator) - Captcha generator for vk.com.
-- [VkCaptchaDow | GitHub](https://github.com/whaile-off/vk-captcha-dowloader) - Captcha downloader for vk.com.
+- HDWcaptcha [GitHub](https://github.com/hdwcaptcha) [Demo](https://whaile.ru/demo/hdwcaptcha/index.php) - Solve captchas quickly and accurately!
+- BestraXstudio [GitHub](https://github.com/whaile-off/BestraXstudio) [Demo](https://whaile.ru/demo/bestraxstudio/index.php) - Minecraft studio site!
+- Ney [Demo](https://whaile.ru/demo/ney/index.php) - Portfolio site for ney.
+- HDWkeys [GitHub](https://github.com/whaile-off/hdwkeys) - Java application for displaying mouse clicks and keyboard input.
+- VkCaptchaGen [GitHub](https://github.com/whaile-off/vk-captcha-generator) - Captcha generator for vk.com.
+- VkCaptchaDow [GitHub](https://github.com/whaile-off/vk-captcha-dowloader) - Captcha downloader for vk.com.
 
 <h1 align="center">Social Media</h1>
 
 - [Telegram](https://t.me/whaile_off_3)
 - [VK](https://vk.com/whaile_off_2)
-- [GitHub](https://github.com/whaile-off)
-- [YouTube](https://www.youtube.com/@_whaile_)
 
 Feel free to reach out to me if you have any questions or want to collaborate on interesting projects!
