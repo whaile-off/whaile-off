@@ -10,18 +10,19 @@ Hello! I'm a Full-Stack Developer specializing in creating websites, programs, s
 
 <h1 align="center">Contact Information</h1>
 
-- 🌐 [Visit My Website](https://whaile.ru)
-- 📧 Email: whaile@whaile.ru
+- 🌐 Site:     https://whaile.ru
+- 📧 Email:    whaile@whaile.ru
 - 📱 Telegram: [@whaile_off_3](https://t.me/whaile_off_3)
 
 <h1 align="center">Projects</h1>
 
-- HDWcaptcha [GitHub](https://github.com/hdwcaptcha) [Demo](https://whaile.ru/demo/hdwcaptcha/index.php) - Solve captchas quickly and accurately!
-- BestraXstudio [GitHub](https://github.com/whaile-off/BestraXstudio) [Demo](https://whaile.ru/demo/bestraxstudio/index.php) - Minecraft studio site!
-- Ney [Demo](https://whaile.ru/demo/ney/index.php) - Portfolio site for ney.
-- HDWkeys [GitHub](https://github.com/whaile-off/hdwkeys) - Java application for displaying mouse clicks and keyboard input.
-- VkCaptchaGen [GitHub](https://github.com/whaile-off/vk-captcha-generator) - Captcha generator for vk.com.
-- VkCaptchaDow [GitHub](https://github.com/whaile-off/vk-captcha-dowloader) - Captcha downloader for vk.com.
+- HDWcaptcha - Solve captchas quickly and accurately! | [GitHub](https://github.com/hdwcaptcha) | [Demo](https://whaile.ru/demo/hdwcaptcha/index.php) |
+- BestraXstudio - Minecraft studio site! | [GitHub](https://github.com/whaile-off/BestraXstudio) | [Demo](https://whaile.ru/demo/bestraxstudio/index.php) |
+- My site - My portfolio web site! | [GitHub](https://github.com/whaile-off/whaile-promo-site) | [Demo](https://whaile.ru) |
+- Ney - Portfolio site for ney. | [Demo](https://whaile.ru/demo/ney/index.php) |
+- HDWkeys - Java application for displaying mouse clicks and keyboard input. | [GitHub](https://github.com/whaile-off/hdwkeys) |
+- VkCaptchaGen - Captcha generator for vk.com. | [GitHub](https://github.com/whaile-off/vk-captcha-generator) |
+- VkCaptchaDow - Captcha downloader for vk.com. | [GitHub](https://github.com/whaile-off/vk-captcha-dowloader) |
 
 <h1 align="center">Social Media</h1>
 
